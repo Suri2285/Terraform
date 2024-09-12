@@ -27,3 +27,4 @@ resource "aws_security_group" "allow_ssh_terraform" {
         protocol         = "tcp"
         cidr_blocks      = ["0.0.0.0/0"] #allow from everyone
         ipv6_cidr_blocks = ["::/0"]
+    }
