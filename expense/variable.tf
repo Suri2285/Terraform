@@ -13,8 +13,8 @@ variable "common_tags" {
 }
 
 variable "zone_id" {
-    default = "Z09912121MS725XSKH1TG"
-}
+    default = "Z00580791DA65G54PYEYT"
+    }
 
 variable "domain_name" {
     default = "suri2285.online"
